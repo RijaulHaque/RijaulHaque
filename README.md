@@ -1,6 +1,6 @@
 # Hi there, I'm Rijaul Haque 👋
 
-![Banner](https://your-banner-url.com)
+![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXQ9Jrg-0zPvUVCzHBjI6hru_t4x9JpGtYMTr5PQxIcVgyaWW9m6GyzYw&s=10)
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **NLP based Project**
@@ -8,6 +8,7 @@
 - 👯 I’m looking to collaborate on my **Current Project**
 - 📫 How to reach me: **project.rijaulhaque@gmail.com**
 - 😄 Pronouns: **Ri-jha-ul Haq**
+- ⚡My firm belief is in **Technology-Enthusiasm-Innovation**
 
 ## 🛠️ My Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,8 +31,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📈 GitHub Stats
-![Rijaul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RijaulHaque&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RijaulHaque&layout=compact&theme=radical)
+![Rijaul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RijaulHaque&show_icons=true&bg_color=EAEAEA&text_color=333333&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RijaulHaque&layout=compact&bg_color=EAEAEA&text_color=333333&theme=radical)
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rijaul-haque-ab3597262)
